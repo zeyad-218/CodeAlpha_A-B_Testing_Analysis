@@ -1,0 +1,10 @@
+Contingency Table:
+     control  exposed
+yes      264      308
+no       322      349
+
+Control Conversion Rate: 0.06484893146647015
+Exposed Conversion Rate: 0.07688467299051423
+Chi-squared test statistic: 0.3465426444731172
+P-value: 0.5560768104229136
+The results are not statistically significant. There is no evidence to suggest that the exposed group performed differently from the control group.
